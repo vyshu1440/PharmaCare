@@ -1,43 +1,85 @@
-# PharmaCare
-The purpose of the pharmacare project is to create an efficient and effective system for managing all aspects of a pharmacy's operations. 
-PharmaCare is a digital platform or a website that allows people to purchaseprescription and over-the-counter medications online.
-It provides a convenient way for customers to order their medicines, often offering home delivery services.
-By leveraging technology and professional expertise, this platform ensures safe and prompt delivery of essential medicines,
-promoting better health outcomes for all. 
+# 🌟 PharmaCare
 
-PRODUCT FUNCTIONS :
+**PharmaCare** is a digital platform designed to revolutionize the way pharmacies operate. From prescription medications to over-the-counter drugs, PharmaCare offers a convenient and reliable solution for purchasing medicines online, ensuring prompt and secure delivery to your doorstep. 
 
-PharmaCare have five main functions described below :-
+---
 
-Register
+## ✨ Features
 
-➢ Login
+PharmaCare provides the following key functionalities:
 
-➢ Order
+1. **Register**: Create a user account to access the platform.
+2. **Login**: Secure access to personalized services.
+3. **Order**: Browse and order prescription or OTC medicines.
+4. **Payment**: Hassle-free and secure payment gateway.
+5. **Delivery**: Timely delivery of medicines to your location.
 
-➢ Payment
+---
 
-➢ Delivery
+## 🧑‍💻 User Classes
 
-USER CLASSES AND CHARACTERISTICS :
+### **1. User** 
+- Customers who interact with the system.
+- Provide necessary details for registration and orders.
 
-There are 2 classes in developing system :
+### **2. Admin**
+- Manages users and orders.
+- Ensures segregation of client data for enhanced database security.
 
- User
+---
 
- Admin
+## 🌐 Tech Stack
 
-User : User is class in our system, because it give all needed
-details.
+### **Operating System**
+- Ubuntu/Linux
 
-Admin : Admin is a class which give a full information about user
-such as name, orderId, address, phone. So different clients will
-never be mixed in database.
+### **Front-End**
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
-OPERATING ENVIRONMENT :
+### **Back-End**
+- SQL
+- PHP
 
-The system is developed in the operating system Ubuntu/ Linux
+---
 
-• Front end : HTML , CSS , BOOTSTRAP , JAVASCRIPT.
+## 📸 Screenshots
 
-• Back end : SQL , PHP
+### **Main Page**
+![Main Page](project-images/main.png)
+
+The main page of PharmaCare serves as the starting point for users. It provides a user-friendly interface for navigation, allowing customers to easily search for medicines, view categories, and access their account. Key highlights include:
+- Intuitive design for easy navigation.
+- Quick access to featured and recommended medicines.
+
+---
+
+### **Product Details Page**
+![Product Details Page](project-images/product_details.png)
+
+The product details page provides comprehensive information about each medicine, including:
+- Name and description.
+- Dosage details and instructions for use.
+- Price and availability.
+- An "Add to Cart" button for seamless ordering.
+
+---
+
+### **Admin Dashboard**
+![Admin Dashboard](project-images/admin_main.png)
+
+The admin dashboard is the control center for managing the platform. Key features include:
+- A summary of user accounts and orders.
+- Tools for adding, updating, or removing products.
+- Detailed insights into order statuses and delivery tracking.
+- Enhanced security to ensure data privacy.
+
+---
+
+## 🛠️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vyshu1440/PharmaCare.git
